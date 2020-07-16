@@ -1,0 +1,29 @@
+.logo {
+    color: #2196F3;
+}
+
+.type {
+    color: #000000;
+}
+
+.header-tools{
+    color: black;
+}
+
+.header-tools:hover,
+.header-tools:focus {
+    color: #2196F3;
+}
+
+.contact-tools{
+    color: #757575;
+}
+
+.contact-tools:hover,
+.contact-tools:focus{
+   color: #2196F3;
+}
+
+.title{
+    color: #000000;
+}
