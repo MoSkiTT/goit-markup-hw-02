@@ -1,3 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
 .link{
     text-decoration: none;
 }
@@ -161,6 +166,50 @@
     color: #757575;
 }
 
+.container{
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .wrapper{
+    display: flex;
+}
+
+.address{
+    display: flex;
+}
+
+.advantages{
+    display: flex;
+}
+
+.what-are-we-doing{
+    display: flex;
+}
+
+.our-team{
+    display: flex;
+}
+
+.regular-clients{
+    display: flex;
+}
+
+.buttons{
+    display: flex;
+}
+
+.tecnocrack{
+    display: flex;
+}
+
+.proect-prime{
+    display: flex;
+}
+
+.lim-edition{
     display: flex;
 }
