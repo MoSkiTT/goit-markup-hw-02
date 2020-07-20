@@ -1,3 +1,11 @@
+.link{
+    text-decoration: none;
+}
+
+.list{
+    list-style: none;
+}
+
 .logo {
     color: #2196F3;
     font-family: 'Raleway', sans-serif;
@@ -38,11 +46,11 @@
 }
 
 .type2{
-    color: #ececec;
+    color: #ffffff;
 }
 
 .footer-map{
-    color: #ececec;
+    color: #ffffff;
 }
 
 .footer-contact{
@@ -125,3 +133,10 @@
     color: #757575;
 }
 
+.background{
+    background-color: #2F303A;
+}
+
+.join{
+    color: #ffffff;
+}
